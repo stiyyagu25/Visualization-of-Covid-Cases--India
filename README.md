@@ -25,9 +25,12 @@ This project aims to visualize COVID-19 cases in India using Python and various 
 - `figures/`: Directory containing figures generated from the visualizations.
 
 ## Example Figures
-![Bar Chart](1.png)
-*Figure 1: Bar chart showing the total number of COVID-19 cases in different states of India.*
 
+*Figure 1: Bar chart showing the total number of COVID-19 cases in different states of India.*
+![Bar Chart](1.png)
+
+*Figure 2: Bar chart showing the total number of COVID-19 cases in different years in India.*
+![Bar Chart](2.png)
 ![Map](2.png)
 *Figure 2: Map displaying the distribution of COVID-19 cases across various states in India.*
 
