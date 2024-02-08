@@ -40,5 +40,5 @@ This project aims to visualize COVID-19 cases in India using Python and various 
 
 
 ## Contributors
-- [Sucharithe Reddy Tiyyagura](https://github.com/stiyyagu25)
+- [Sucharitha Reddy Tiyyagura](https://github.com/stiyyagu25)
 
