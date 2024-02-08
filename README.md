@@ -38,8 +38,7 @@ This project aims to visualize COVID-19 cases in India using Python and various 
 *Figure 4:Scatter plot displaying the distribution of COVID-19 cases in India.*
 ![Scatter Plot](newplot.png)
 
-## Data Source
-The COVID-19 data used in this project is sourced from [source_name], available at [data_source_link].
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Sucharithe Reddy Tiyyagura](https://github.com/stiyyagu25)
+
